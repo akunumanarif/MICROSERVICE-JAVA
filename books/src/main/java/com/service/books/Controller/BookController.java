@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.service.books.Entity.Book;
 import com.service.books.Service.BookService;
-import com.service.dto.BookDTO;
+import com.service.books.dto.BookDTO;
 
 import lombok.Data;
 

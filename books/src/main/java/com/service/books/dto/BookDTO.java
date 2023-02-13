@@ -1,4 +1,4 @@
-package com.service.dto;
+package com.service.books.dto;
 
 import java.util.ArrayList;
 import java.util.List;
